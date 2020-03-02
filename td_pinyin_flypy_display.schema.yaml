@@ -109,7 +109,7 @@ menu:
 translator:
   dictionary: terra_pinyin.extended
   spelling_hints: 5 # ～字以內候選標註完整帶調拼音
-  prism: td_pinyin_flypy
+  prism: td_pinyin_flypy_display
   preedit_format:
     - xform/([bpmfdtnljqx])n/$1iao/
     - xform/(\w)g/$1eng/
@@ -282,7 +282,7 @@ putonghua_to_jyutping_lookup:
   suffix: "`"
   spelling_hints: 10
   dictionary: terra_pinyin.extended
-  prism: td_pinyin_flypy
+  prism: td_pinyin_flypy_display
   preedit_format:
     - xform/([bpmfdtnljqx])n/$1iao/
     - xform/(\w)g/$1eng/
