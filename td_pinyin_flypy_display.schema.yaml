@@ -14,7 +14,6 @@ schema:
   dependencies:
     - td_pinyin_flypy
     - terra_pinyin.extended
-    - double_jyutping
     - double_jyutping_allowcap
     - leimaau_jyutping
     - leimaau_jyutping_zhuyin_nospaces
