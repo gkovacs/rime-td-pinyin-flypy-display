@@ -11,10 +11,6 @@ schema:
     採用『香港語言學會粵語拼音方案』
     聲調輸入 q平 v上 x去 （雙擊爲陽調）
     提供多種字體轉換方案
-  dependencies:
-    #- luna_pinyin
-    - terra_pinyin.extended
-    - stroke
 
 switches:
   - name: ascii_mode
