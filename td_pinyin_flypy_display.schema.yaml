@@ -285,7 +285,7 @@ putonghua_to_jyutping_lookup:
   suffix: "`"
   spelling_hints: 10
   dictionary: terra_pinyin.extended
-  prism: td_pinyin_flypy_display
+  prism: td_pinyin_flypy
   preedit_format:
     - xform/([bpmfdtnljqx])n/$1iao/
     - xform/(\w)g/$1eng/
